@@ -1,3 +1,6 @@
-public static void main(){
+public class Hello{
+  public static void main(){
 console.log('hello);
 }
+}
+
